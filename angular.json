@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "aula-angular"
+  "defaultProject": "aula-angular",
+  "cli": {
+    "analytics": false
+  }
 }
